@@ -1,5 +1,7 @@
 # Stock-Market-Analytics-Dashboard
 
+Built a Power BI dashboard to analyze Nifty 50 stock trends, volume and volatility.
+ 
 ## Project Overview
 Analyzing Nifty 50 stocks using:
 - Stock price trends
